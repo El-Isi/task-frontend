@@ -176,7 +176,7 @@ src
     npm run start
     ```
 
-## Fontend Installation
+## Frontend Installation
 
 NOTE: Start the frontend installation once you completed the backend installation.
 
@@ -209,13 +209,21 @@ NOTE: Start the frontend installation once you completed the backend installatio
 Once you complete the installation steps navigate to http://localhost:3000 to view the application in your browser.
 
 1. You will see a screen like the following, where you can view the tasks; there will always be one default task displayed.
-Image
+
+![Main](https://github.com/user-attachments/assets/f503cba6-8159-4511-bd19-ea7594a8f0b7)
+
 2. You can add tasks by clicking on the "Add Task" button, which will show a form for you to create your task.
-Image
+
+![2024-11-0613-57-31online-video-cutter com-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/af9271e6-02da-40fc-8656-1b0f859e35e2)
+
 3. If you have created many tasks and want to start over, you can delete them all with the "Clear Tasks" button; all tasks will be deleted except for the default one in the system.
-Image
+
+![2024-11-0613-57-31online-video-cutter com1-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a2145a57-fae7-4b10-8227-45bf839d7d91)
+
 4. The application also works in mobile, it can be used in multi platforms.
-Image
+
+![mobile](https://github.com/user-attachments/assets/2fadf0db-408c-444d-bf31-deb2924b1bc5)
+![mobile2](https://github.com/user-attachments/assets/30d61ca8-c73a-4e91-8889-0f8b6fcedbc9)
 
 Note: I added the default task so that the user always has something to look at, making the interface more user-friendly. Additionally, the default task includes a message encouraging the user to create more tasks.
 
