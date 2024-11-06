@@ -43,7 +43,7 @@ const TaskContainer = () => {
       <Typography variant="h2" component="div"> Board </Typography>
       <div className={classes.taskContainer}>
         <div className={classes.taskList}>
-          <Typography variant="h3" component="div"> Taks Created </Typography>
+          <Typography variant="h3" component="div"> Tasks Created </Typography>
           {
             tasks.length > 0 ? (
               <TasksList tasks={tasks} />
